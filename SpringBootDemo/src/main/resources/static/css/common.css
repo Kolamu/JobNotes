@@ -1,0 +1,10 @@
+@import "bootstrap.min.css";
+@import "header.css";
+
+html{
+    width: 100%;
+}
+
+body{
+    width: 100%;
+}
